@@ -1,0 +1,22 @@
+Index: src/Assignment1/Vectors.scala
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/Assignment1/Vectors.scala	(date 1539059369175)
++++ src/Assignment1/Vectors.scala	(date 1539059369175)
+@@ -1,8 +1,12 @@
+-//noinspection SpellCheckingInspection
++<<<<<<< HEAD: src / Assignment1 / Vectors.scala
++package Assignment1
++
++=======
++>>>>>>> github / master: src / Assignment1 / Vectors.scala
+ object Vectors extends App {
+ 
+   // A Vector holds other objects:
+-  val v1 = new Vector()
++  val v1 = Vector()
+   // v1 is Vector()
+   val sum_of = Range.inclusive(0, 10)
+   print(sum_of.isInclusive)
