@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b05623b-9adf-46dd-99a5-1cf06d4c43a6" name="Default Changelist" comment="GitConflicct" />
+    <list default="true" id="4b05623b-9adf-46dd-99a5-1cf06d4c43a6" name="Default Changelist" comment="GitConflicct">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment3/AuxiliaryConstructor.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment3/ClassExample.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment3/SimpleTime2.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AtomicTest/AtomicTest.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/Name.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AtomicScala/Assignment2/FibonacciTailRecursive$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AtomicScala/Assignment2/FibonacciTailRecursive$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AtomicScala/Assignment2/FibonacciTailRecursive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AtomicScala/Assignment2/FibonacciTailRecursive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment2/JoinStringsByDelimiter.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment2/JoinStringsByDelimiter.scala" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,40 +24,43 @@
     <session id="1808203135">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="17" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.26" value="2" />
+          <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.39" value="1" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="java" value="4" />
           <entry key="sc" value="2" />
-          <entry key="scala" value="36" />
+          <entry key="scala" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="3" />
-          <entry key="Scala" value="37" />
-          <entry key="Scratch" value="2" />
+          <entry key="Scala" value="44" />
+          <entry key="Scratch" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="222" />
           <entry key="sc" value="993" />
-          <entry key="scala" value="6392" />
+          <entry key="scala" value="8472" />
           <entry key="txt" value="174" />
         </counts>
       </usages-collector>
@@ -54,8 +68,8 @@
         <counts>
           <entry key="JAVA" value="23" />
           <entry key="PLAIN_TEXT" value="174" />
-          <entry key="Scala" value="7381" />
-          <entry key="Scratch" value="203" />
+          <entry key="Scala" value="8911" />
+          <entry key="Scratch" value="753" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
@@ -67,50 +81,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_oo.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5435">
+              <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_traits.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2158">
+              <caret line="89" column="61" selection-start-line="89" selection-start-column="61" selection-end-line="89" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Assignment3/AuxiliaryConstructor.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="458">
+              <caret line="30" column="2" selection-start-line="30" selection-end-line="32" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Assignment3/ClassExample.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="458">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Assignment2/JoinStringsByDelimiter.scala">
+        <entry file="file://$PROJECT_DIR$/src/Assignment3/SimpleTime2.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Assignment1/Testing.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Assignment2/FibonacciTailRecursive.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Assignment1/Vectors.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Assignment1/AtomicTest.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-              <folding>
-                <element signature="e#240#265#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="147">
+              <caret line="74" column="18" selection-start-line="74" selection-start-column="18" selection-end-line="74" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -150,16 +161,24 @@
         <option value="$PROJECT_DIR$/src/VarArgs.scala" />
         <option value="$PROJECT_DIR$/src/Tryit.sc" />
         <option value="$PROJECT_DIR$/src/Assignment1/ForLoops$.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.scala" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/Test.java" />
         <option value="$PROJECT_DIR$/src/Assignment2/ArrayPos.scala" />
         <option value="$PROJECT_DIR$/src/Assignment1/VarArgs.scala" />
         <option value="$PROJECT_DIR$/src/Assignment2/FirstNegativeNumber.scala" />
-        <option value="$PROJECT_DIR$/src/Assignment2/JoinStringsByDelimiter.scala" />
         <option value="$PROJECT_DIR$/src/Assignment1/Vectors.scala" />
         <option value="$PROJECT_DIR$/src/Assignment1/AtomicTest.scala" />
         <option value="$PROJECT_DIR$/src/Assignment2/FibonacciTailRecursive.scala" />
         <option value="$PROJECT_DIR$/src/Assignment1/Testing.scala" />
+        <option value="$PROJECT_DIR$/src/Assignment2/JoinStringsByDelimiter.scala" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.scala" />
+        <option value="$PROJECT_DIR$/src/Examples/Name.scala" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_oo.scala" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_traits.scala" />
+        <option value="$PROJECT_DIR$/src/Assignment3/AuxillaryConstructor.scala" />
+        <option value="$PROJECT_DIR$/src/Assignment3/AuxiliaryConstructor.scala" />
+        <option value="$PROJECT_DIR$/src/Assignment3/ClassExample.scala" />
+        <option value="$PROJECT_DIR$/src/AtomicTest/AtomicTest.scala" />
+        <option value="$PROJECT_DIR$/src/Assignment3/SimpleTime2.scala" />
       </list>
     </option>
   </component>
@@ -183,7 +202,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -192,15 +210,30 @@
               <item name="AtomicScalaExercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="AtomicScala" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="AtomicScalaExercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AtomicScala" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AtomicScalaExercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="AtomicScalaExercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539062470616" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540200556785" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Scala" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -210,6 +243,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -228,9 +262,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FibonacciTailRecursive">
-    <configuration name="ArrayPos" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment2.ArrayPos" />
+  <component name="RunManager" selected="Application.SimpleTime2">
+    <configuration name="AuxillaryConstructor" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Assignment3.AuxiliaryConstructor" />
+      <module name="AtomicScala" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassExample" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment3.ClassExample" />
       <module name="AtomicScala" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -257,27 +298,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Testing" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Testing" />
+    <configuration name="SimpleTime2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment3.SimpleTime2" />
       <module name="AtomicScala" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Testing" />
       <item itemvalue="Application.FibonacciTailRecursive" />
-      <item itemvalue="Application.ArrayPos" />
       <item itemvalue="Application.FirstNegativeNumber" />
       <item itemvalue="Application.JoinStringsByDelimiter" />
+      <item itemvalue="Application.AuxillaryConstructor" />
+      <item itemvalue="Application.ClassExample" />
+      <item itemvalue="Application.SimpleTime2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SimpleTime2" />
+        <item itemvalue="Application.ClassExample" />
         <item itemvalue="Application.FibonacciTailRecursive" />
         <item itemvalue="Application.JoinStringsByDelimiter" />
         <item itemvalue="Application.FirstNegativeNumber" />
-        <item itemvalue="Application.ArrayPos" />
-        <item itemvalue="Application.Testing" />
       </list>
     </recent_temporary>
   </component>
@@ -303,6 +345,12 @@
       <workItem from="1538989871410" duration="12659000" />
       <workItem from="1539059218623" duration="2934000" />
       <workItem from="1539062369704" duration="237000" />
+      <workItem from="1539062693407" duration="1461000" />
+      <workItem from="1539667648142" duration="117000" />
+      <workItem from="1539670859007" duration="1310000" />
+      <workItem from="1539690346763" duration="742000" />
+      <workItem from="1539751898522" duration="4974000" />
+      <workItem from="1540185391684" duration="10324000" />
     </task>
     <task id="LOCAL-00001" summary="Init_Exercises">
       <created>1538330101446</created>
@@ -350,13 +398,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49755000" />
+    <option name="totallyTimeSpent" value="68683000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2322239" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24293059" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -365,7 +413,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32974428" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33647376" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33647376" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -374,9 +422,11 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49871466" weight="0.64484453" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5012854" side_tool="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.497545" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.36877525" />
       <window_info anchor="bottom" id="Inspection Results" order="12" visible="true" weight="0.32974428" />
       <window_info anchor="bottom" id="Dependency Viewer" order="13" weight="0.32974428" />
+      <window_info anchor="right" id="Flutter Outline" />
+      <window_info anchor="right" id="Flutter Inspector" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -437,13 +487,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Assignment1/Vector.scala" />
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.6-sources.jar!/scala/Predef.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="216" column="12" selection-start-line="216" selection-start-column="12" selection-end-line="216" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Vectors.scala" />
     <entry file="file://$PROJECT_DIR$/src/VarArgs.scala" />
     <entry file="file://$PROJECT_DIR$/src/Assignment1/Family.scala">
@@ -509,13 +552,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="2" selection-start-column="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.6-sources.jar!/scala/Array.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1458">
@@ -545,10 +581,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Assignment1/AtomicScala.scala" />
-    <entry file="file://$PROJECT_DIR$/src/Assignment2/JoinStringsByDelimiter.scala">
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.6-sources.jar!/scala/Predef.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        <state relative-caret-position="9984">
+          <caret line="398" column="26" selection-start-line="398" selection-start-column="26" selection-end-line="398" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -580,6 +616,75 @@
           <folding>
             <element signature="e#240#265#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assignment2/JoinStringsByDelimiter.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Examples/Name.scala">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.6-sources.jar!/scala/StringContext.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="96" column="6" selection-start-line="96" selection-start-column="6" selection-end-line="96" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_oo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5435">
+          <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_traits.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2158">
+          <caret line="89" column="61" selection-start-line="89" selection-start-column="61" selection-end-line="89" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AtomicTest/AtomicTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="910">
+          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+          <folding>
+            <element signature="e#20#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assignment3/ClassExample.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assignment3/AuxiliaryConstructor.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="30" column="2" selection-start-line="30" selection-end-line="32" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assignment3/SimpleTime2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="74" column="18" selection-start-line="74" selection-start-column="18" selection-end-line="74" selection-end-column="18" />
         </state>
       </provider>
     </entry>
